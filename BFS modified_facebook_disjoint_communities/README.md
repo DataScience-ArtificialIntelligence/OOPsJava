@@ -1,6 +1,6 @@
 # Community Detection in Social Networks
 
-### MEMBERS: 
+### TEAM MEMBERS: 
 - Prathamesh Patil (23BDS043)
 - Vishavjeet Yadav (23BDS069)
 - Om Pandey (23BDS040)
