@@ -1,5 +1,5 @@
-#### This folder is made by me <span style="color:purple;">Karan </span>
-who made the `Inventoryknapsack.java` project. My teammate is <span style="color:purple;">**Yash Srivastava**</span> (23bds071), who made the `Autofill.java` project and helped me create the report and presentation for our project.
+#### This folder is made by me 🔹 **Karan**
+who made the `Inventoryknapsack.java` project. My teammate is 🔹 **Yash Srivastava** (23bds071), who made the `Autofill.java` project and helped me create the report and presentation for our project.
 
 
  ##  Instructions
