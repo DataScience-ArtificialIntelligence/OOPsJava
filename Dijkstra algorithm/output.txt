@@ -1,3 +1,0 @@
-Shortest path from rajkot to vadodara:
-rajkot -> vadodara
-Total distance: 248.61 km
