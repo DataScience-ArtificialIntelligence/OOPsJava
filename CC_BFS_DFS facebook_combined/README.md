@@ -1,9 +1,9 @@
 # Community Detection in Social Networks
 
 ### MEMBERS: 
-- Prathamesh Patil (23BDS043)
-- Vishavjeet Yadav (23BDS069)
-- Om Pandey (23BDS040)
+- Prathamesh Patil (23BDS043) (CC.java)
+- Vishavjeet Yadav (23BDS069) (DFS)
+- Om Pandey (23BDS040) (BFS)
 
 This project is a **Social Network Analysis Tool** that detects communities within a social network. It utilizes depth-first search (DFS), breadth-first search (BFS), and connected components algorithms to analyze relationships in a network. The tool can be applied to various real-world datasets, including social media interactions, email communications, and other collaborative networks, to understand how individuals are grouped within communities.
 
@@ -52,4 +52,4 @@ Collaborative Filtering: Group users with similar preferences for recommendation
 Event Recommendations: Group people based on shared interests or social connections for personalized recommendations.
 
 ### Dataset
-https://snap.stanford.edu/data/
+https://snap.stanford.edu/data/ego-Facebook.html
