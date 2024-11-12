@@ -97,6 +97,22 @@ The solution uses a dynamic programming (DP) approach to find the LCS. The key s
 3.Backtracking: Once the table is populated, we backtrack to reconstruct the LCS and track the start and end indices in both sequences.
 4.Output: The LCS, its length, and the start and end indices in both sequences are written to the output file. Additionally, the matching LCS is highlighted within both input sequences. 
 
+Results:
+The program computes the Longest Common Subsequence (LCS) between the two input mRNA sequences. The results are as follows:
+Longest Common Subsequence: GGGATCCTTGGTCCTCTCAGCCCCAGGGAGGTGAAGGACGTCCTTCCCCAGGAGCCGCTGGCCATCCGGCAGGAAGATGAAGGTTCTGTGGGCTGCGTGCTGGTCACATTCCTGCAGGATGCCAGGCCGGTGGAGAAGCGGGGAGACAGAGCGGGCCCGAGCTGCGCCGCAACCAGTGGCAGAGCGGCCAGCGCTGGGAACTGGCACTGGGTCGCTTTTGGGATACCTGCGCTGGGTGCAGACACTGTCTGAGCAGGTGCAGGAGGAGCGCTCAGCTCCCAGGTCACCCAGGAACTGAGGGCGCTGAGGACGAGACCATGAGGATTGAAGGCCTACAAATCGGAACTGGAGAACAATACCCGGGGCGGAGGAGACGCGGGCACGGCTGTCCAAGGAGCTGCAGGCGGCGAGGCCCGGCTGGGCGCGGAATGGAGGACGTGTGCGGCCGCCTGGTGCAGTACCGCGGCGAGGTGCAGGCCATGCTCGCCAGAGCACCGAGACTGCGGTCGCCTCGCCTCCCACCTGCGCAAGCTGCGTAAGCGGCTCCTCCGGATGCCGATGACCTGCAGAAGCGCCTGGCGGTACCACCGGGGCCCGCGAGGCGCCGAGCGCGGCCTCAGCGCCATCCGCGAGCCCTGGGCCCTGGTGGAAAGGCCGCGTGCGGGCGCCACTTGGGCTCCCTGGCCGGCCAGCCGCTACGGGCGGGCCCAGGCGGGGGAGCGGCTGCGCGCGCGGAGGAGGAGATGGGCAGCCGGACCCCACCCCTGGACGAGGTGAAGGGCGGTGGCGAGGTGCGCGCCAAGCTGAGGAGCAGGCCCACAAACGCCTGCAGGCCGACCTTCCAGGCCCGCCTCAAGAGCTGGTTCGAGCCCCTGGTGGAAGACAGAGCGCCAGTGGGCCGGGCTGGTGGAGAAGGGCAGGTGGTGGCACCAGCGCCGCCCCTGTGCCCAGCGACAATCACTGAACGCCGAAGCTGAGCCATGCGACCCCACGCCACCCGTGCCTCCTCCTCCGCGCAGCTGCACGGAGACCTGTCCCGCCCCAGCCGTCCTCCTGGGGTGGACCCTAGTTTAATAAAGATTACCAAGTTTCACGCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Length of LCS: 1140
+Start Index in first string (wild_type_APOE.txt): 0
+End Index in first string (wild_type_APOE.txt): 1222
+Start Index in second string (mutated_APOE.txt): 24
+End Index in second string (mutated_APOE.txt): 3354
+The program also generates a visual highlight of the LCS in both input sequences in the output file.
+
+Conclusion:
+This project successfully implemented an efficient algorithm to find the Longest Common Subsequence between two mRNA sequences. The use of dynamic programming ensures that the solution is optimal and runs in a time complexity of O(mn), where m and n are the lengths of the two sequences. The program provides valuable information about the genetic similarity between the wild-type and mutated mRNA, which can be useful for further bioinformatics analysis.
+
+Future Work:
+In future iterations, the program could be extended to handle larger datasets and different types of sequence comparisons. Additionally, improvements could be made to visualize the sequences and highlight the LCS more intuitively.
+
 Dataset:
 1. mutated_APOE - (https://www.ncbi.nlm.nih.gov/nuccore/NM_181458.4?report=fasta&to=3359)
 2. wild_type_APOE - (https://www.ncbi.nlm.nih.gov/nuccore/NM_000041.2?report=fasta)
