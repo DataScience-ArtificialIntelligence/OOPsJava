@@ -1,5 +1,7 @@
 # Graph-Based Analysis of Social Networks Using Shortest Path Algorithms and Real-Time Updates
-
+## Team Members
+- **Atharva Agrawal**: 23BDS010
+- **Arnav Gupta**: 23BDS009
 ## Description
 This project explores the use of Dijkstra’s and Bellman-Ford algorithms to determine shortest paths in a massive unweighted social network graph. By analyzing connections within a real-world dataset, we aim to understand the structure and relationships within social networks, specifically through calculating the shortest paths between users.
 
