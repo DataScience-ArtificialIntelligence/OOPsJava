@@ -1,5 +1,5 @@
 ### This folder is made by me 🔹 ***Karan Kabdal (23bds028)*** who made the `Inventoryknapsack.java` project. My teammate is 
-###🔹 ***Yash Srivastava (23bds071)***, who made the `Autofill.java` project and helped me create the report and presentation for our project.
+### 🔹 ***Yash Srivastava (23bds071)***, who made the `Autofill.java` project and helped me create the report and presentation for our project.
 
 
 
