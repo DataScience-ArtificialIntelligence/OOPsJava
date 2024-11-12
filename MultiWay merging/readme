@@ -1,0 +1,22 @@
+Team Members
+
+Prem Sagar T.K 23BDS065
+
+Tejas 23BDS063
+
+
+Data Merging
+
+Algo: MultiWay Merge
+
+Data Set: Financial Transactions
+
+For Data Merging
+
+Code File: MultiWay Merging
+
+Input File: csv1java.csv, csv2java.csv
+
+Output file: cvsmerged.csv
+
+We used MultiWay Merging to merge the dataset. We took 2 excel named csv1 and csv2, mergered them into merged.csv file
