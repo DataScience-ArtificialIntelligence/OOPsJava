@@ -1,3 +1,0 @@
-Shortest path from raipur to warangal:
-raipur -> warangal
-Total distance: 418.73 km
