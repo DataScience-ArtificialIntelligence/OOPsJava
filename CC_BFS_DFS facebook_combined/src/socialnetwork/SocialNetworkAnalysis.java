@@ -6,7 +6,7 @@ import java.util.*;
 public class SocialNetworkAnalysis {
 
     public static void main(String[] args) {
-        String fileName = "modified_facebook_disjoint_communities.txt";
+        String fileName = "facebook_combined.txt";
         Graph graph = readGraphFromFile(fileName);
         
         System.out.println("Graph:");
