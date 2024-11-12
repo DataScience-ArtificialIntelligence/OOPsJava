@@ -1,0 +1,3 @@
+Shortest path from rajkot to rajkot:
+rajkot
+Total distance: 0.0 km
