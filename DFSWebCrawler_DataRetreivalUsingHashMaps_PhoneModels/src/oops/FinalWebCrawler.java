@@ -15,7 +15,7 @@ public class FinalWebCrawler {
 
     public static void main(String[] args) {
         String startUrl = "https://en.wikipedia.org/wiki/IPhone_16"; // starting or root node.
-        String outputFile = "Output_DFS.txt"; 
+        String outputFile = "PhoneModels.txt"; 
 
         try (FileWriter writer = new FileWriter(outputFile)) {
             // Start DFS crawl from the given start URL.

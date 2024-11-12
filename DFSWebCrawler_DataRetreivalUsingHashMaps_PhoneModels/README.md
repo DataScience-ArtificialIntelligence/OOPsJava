@@ -12,7 +12,7 @@
 2. (Assuming that the project has been cloned in a folder that resides in the desktop).
 Now the all the code is stored at path - user_name/desktop/folder_name/oops/src
 
-3. Run the FinalWebCrawler.java file that create a Output_DFS.txt file containing all the scraped data.
+3. Run the FinalWebCrawler.java file that create a PhoneModels.txt file containing all the scraped data.
 
 4. Run the IphoneDetailsStore.java file that prompts you to choose the file where the Iphone details exist.
 that file exists at path - user_name/desktop/folder_name/oops
