@@ -1,4 +1,4 @@
-This folder is made by me Karan Kabdal(23bds028) who made the Inventoryknapsack.java project and  my teammate is Yash srivastava(23bds071) who made the Autofill.java project and Helped me create the report and presentation of our project
+This folder is made by me Karan Kabdal(23bds028) who made the Inventoryknapsack.java project and  my teammate is Yash Srivastava(23bds071) who made the Autofill.java project and Helped me create the report and presentation of our project
 
  #Instructions
 it has two folders one is Dfs_top500englishwords which contain  Autofill.java and its dataset wordstxt.txt
