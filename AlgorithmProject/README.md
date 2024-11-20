@@ -22,4 +22,4 @@ We use FloydWarshall algorithm to find shortest paths across 128 cities in North
 
 
 ### Algorithm 3: Page rank algortihm
-We used Google's Page rank algorithm to measure the importance of a webpage by assigning parameters to it for it we used a dataset of webgraphs containing 7000+ nodes and 10000000+ edges
+We used Google's Page rank algorithm to measure the importance of a webpage by assigning parameters to it for it we used a dataset of webgraphs containing 7000+ nodes and 100000+ edges
