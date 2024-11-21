@@ -24,6 +24,9 @@ Input File for Compression: Data.csv
 Output File for Compression: Compressed.Bin
 
 
+The Boolean should be changed from true to false to decompress
+
+
 Input file for DeCompression: Compressed.bin
 
 Output file for DeCompression: DeCompressed.csv
